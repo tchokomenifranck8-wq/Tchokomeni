@@ -10,6 +10,7 @@ My GitHub profile README
 ## 🔗 Connect
 - GitHub: [https://github.com/tchokomeni](https://github.com/tchokomeni)
 - ORCID: [https://orcid.org/0009-0001-6411-9954]
+- [![ORCID](https://img.shields.io/badge/ORCID-0009-0001-6411-9954-green)](https://orcid.org/0009-0001-6411-9954)
 
 ## ⚙️ Skills
 - **Languages:** Python, JavaScript, Java
