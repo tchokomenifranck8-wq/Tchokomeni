@@ -7,6 +7,10 @@ My GitHub profile README
 📅 Building calendar-integrated systems for effortless planning and accountability.  
 🌍 Open-source, cloud, and AI-powered automation explorer.
 
+## 🚀 Featured Projects
+- **study-automation** — Scripts to automate HND study schedules with calendar integration.
+- **voice-reminders** — Voice assistant hooks for hands-free accountability.
+
 ## 🔗 Connect
 - GitHub: [https://github.com/tchokomeni](https://github.com/tchokomeni)
 - ORCID: [https://orcid.org/0009-0001-6411-9954]
